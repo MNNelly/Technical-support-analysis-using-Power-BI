@@ -13,7 +13,7 @@ This data set was shared by Onyx data as part of their May 2024 visualization ch
 3. 86.6% of the first responses were within the first response SLAs.
    66.4% of the resolved tickets were within the resolution SLAs.
 4. 1173 customers took the survey. The average customer satisfaction rating was 3.51.
-   Across the product group, training and consulting scored the highest (3.63 equivalent of 25.93% of total rating).
+   Across the product group, training and consulting scored the highest (3.63 equivalent of 25.93% of total reviews).
    The agent named Connor had the highest rating of 4.07.
    Across agent groups, first line support had rating of 3.54 against second line support group(3.41).
    Purchasing and enquiry requests scored the highest rating(3.75) across the topic of enquiry category.
